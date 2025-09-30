@@ -13,12 +13,12 @@ CrewToSQL is an innovative multi-agent text-to-SQL system that leverages Retriev
 
 ### Key Features
 
-- ** Multi-Agent Architecture**: 4 specialized agents working collaboratively
-- ** Auto-Repair Capabilities**: Self-correcting SQL generation with iterative refinement
-- ** RAG Integration**: Context-aware database understanding using ChromaDB
-- ** High Accuracy**: Perfect accuracy (100%) on medium and hard complexity queries
-- ** Modern Web Interface**: FastAPI backend with Streamlit frontend
-- ** Rich Visualizations**: Interactive charts and data exploration tools
+- Multi-Agent Architecture: 4 specialized agents working collaboratively
+- Auto-Repair Capabilities: Self-correcting SQL generation with iterative refinement
+- RAG Integration: Context-aware database understanding using ChromaDB
+- High Accuracy: Perfect accuracy (100%) on medium and hard complexity queries
+- Modern Web Interface: FastAPI backend with Streamlit frontend
+- Rich Visualizations: Interactive charts and data exploration tools
 
 ##  System Architecture
 The CrewToSQL system implements a sophisticated multi-agent architecture that transforms natural language queries into accurate SQL statements through a coordinated workflow.
